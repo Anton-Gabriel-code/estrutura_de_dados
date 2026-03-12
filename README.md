@@ -1,6 +1,8 @@
-# estrutura_de_dados
-Alunos: Danilo Soares de Matos, 
+# Projeto de Estrutura de Dados
+Alunos: Danilo Soares de Matos, Antonio Gabriel e Eudes Oliveira
 Professor: Icaro
 
-Esse é o nosso projeto de estrutura de dados
+O projeto aborda:
+> Big (O) e suas Complexidades
+> Gráficos utilizando Python
 
